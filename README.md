@@ -1,8 +1,11 @@
 # Lessons-Learned
 
 Things I have learned at Bloc.io
-1. HTML
-2. CSS
-3. Javascript
-4. Git
-5. ...
+1. **Slack**
+2. Zoom
+3. HTML
+4. CSS
+5. Writing tables
+6. Git
+7. __Markdown__
+~~Javascript~~
