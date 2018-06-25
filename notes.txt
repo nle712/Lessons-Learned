@@ -1,1 +1,7 @@
 working on Git
+
+This is part of a project that is step one and needs to go first
+
+
+
+This is part of the same project but is step 2, and needs to be deployed 2nd
